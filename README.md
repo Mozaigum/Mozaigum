@@ -16,9 +16,9 @@ A chauffeur booking website with responsive quote forms, an Express API, email r
 
 [View the code](https://github.com/Mozaigum/Executive-Driving) · [Visit the website](https://www.executivedriving.ca)
 
-### Driving school CRM and reporting
+### Tutoring business CRM and reporting
 
-Built CRM workflows and financial dashboards for revenue, invoices and instructor payouts using React, TypeScript, Node.js and PostgreSQL. Automated reporting saved about five hours per reporting cycle. I checked the calculations with 20,000 synthetic scenarios.
+Built CRM workflows and financial dashboards for revenue, invoices and instructor payouts using React, TypeScript, Supabase and PostgreSQL. Automated reporting saved about five hours per reporting cycle. I checked the calculations with 20,000 synthetic scenarios.
 
 ### Membership website
 
